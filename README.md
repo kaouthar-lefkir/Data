@@ -1,2 +1,2 @@
 # Data
-repo for the data coursr 
+repo for the data course
